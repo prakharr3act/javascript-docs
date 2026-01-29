@@ -5,7 +5,7 @@ Built using only **HTML and CSS**, with a clean **black & white theme** and colo
 
 ---
 
-## ✨ Features
+##  Features
 
 - Fully responsive layout (desktop, tablet, mobile)
 - Fixed sidebar navigation like MDN
@@ -17,7 +17,7 @@ Built using only **HTML and CSS**, with a clean **black & white theme** and colo
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML5  
 - CSS3  
@@ -25,7 +25,7 @@ Built using only **HTML and CSS**, with a clean **black & white theme** and colo
 
 ---
 
-## 📂 Sections Included
+##  Sections Included
 
 - Introduction
 - Syntax
@@ -45,7 +45,7 @@ Built using only **HTML and CSS**, with a clean **black & white theme** and colo
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository  
 2. Open `index.html` in your browser  
@@ -53,7 +53,7 @@ Built using only **HTML and CSS**, with a clean **black & white theme** and colo
 
 ---
 
-## 🎯 Inspiration
+##  Inspiration
 
 - MDN Web Docs
 - W3Schools
