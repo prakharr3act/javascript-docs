@@ -20,8 +20,7 @@ Built using only **HTML and CSS**, with a clean **black & white theme** and colo
 ##  Tech Stack
 
 - HTML5  
-- CSS3  
-- Pure CSS syntax highlighting  
+- CSS3    
 
 ---
 
