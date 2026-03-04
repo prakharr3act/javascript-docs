@@ -45,13 +45,6 @@ Built using only **HTML and CSS**, with a clean **black & white theme** and colo
 
 ---
 
-##  Getting Started
-
-1. Clone the repository  
-2. Open `index.html` in your browser  
-3. Start reading or customizing the documentation  
-
----
 
 ##  Inspiration
 
@@ -59,7 +52,3 @@ Built using only **HTML and CSS**, with a clean **black & white theme** and colo
 - W3Schools
 
 ---
-
-## 📄 License
-
-Free to use for learning and personal projects.
